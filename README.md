@@ -1,16 +1,23 @@
-# Algorithm Visualizer
+# Algorithm Visualizer PRO
 
 ## Description
-A visual tool to understand how algorithms work in real time.
+A visual tool to understand how sorting algorithms work in real time.
 
 ## Features
 - Bubble Sort visualization
-- Animated bars
-- Real-time updates
+- Selection Sort visualization
+- Speed control slider
+- Dynamic array generation
+- Color-coded comparisons
 
 ## Technologies
 - Python
 - Tkinter
 
+## Concepts
+- Algorithms
+- Data Structures
+- Time Complexity
+
 ## Goal
-Improve understanding of algorithms and data structures through visualization.
+Build an interactive system to improve algorithm understanding.
